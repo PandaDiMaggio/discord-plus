@@ -11,7 +11,7 @@
  * @updateUrl https://panda.github.io/discord-plus/DiscordPlus.theme.css
  * @invite 2Jwh2nS
 */
-@import url(https://plusinsta.github.io/discord-plus/src/DiscordPlus-source.theme.css);
+@import url(https://github.com/PandaDiMaggio/discord-plus/edit/master/DiscordPlus.theme.css);
 
 /* I've commented most of these values so you can change them yourself. If you're having trouble, or you want to do more than what these values allow for, a volunteer might be able to help you in my server. */
 
@@ -27,7 +27,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://wallpapercave.com/wp/wp2264639.png);
+  --dplus-backdrop: url(https://github.com/PandaDiMaggio/discord-plus/edit/master/DiscordPlus.theme.css);
   
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 60%;
